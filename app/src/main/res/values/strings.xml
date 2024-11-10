@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Aplikasi Random </string>
+    <string name="textview1">Aplikasi Random</string>
+    <string name="buttonname1"> Cek Khodam </string>
+    <string name="buttonname2"> Kata Kata Motivasi  </string>
+    <string name="buttonback"> Kembali  </string>
+    <string name="textview3"> Motivasi Harian  </string>
+    <string name="buttontext"> Buat Kata Kata </string>
+    <string name="textview4"> Daftar Tugas  </string>
+
+</resources>
